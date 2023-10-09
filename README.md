@@ -14,6 +14,7 @@
 - [Transavia](https://flightsim.to/file/11918/transavia-a320-neo-16k)
 - [TUI](https://flightsim.to/file/48/tui)
 - [United](https://flightsim.to/file/12379/a32nx-8k-united-airlines-2019-real-coloes-new-livery)
+- [Vueling](https://flightsim.to/file/4488/vueling-airlines-linking-europe-ec-lvp-8k)
 
 # PMDG Boeing 737-800
 - [Air France](https://flightsim.to/file/41910/air-france-f-mcer)
